@@ -4371,3 +4371,7 @@ harshithap2000-dai_deprivation"
 "Yeehaw Dino"
 
 ![](shr_dino.png)
+
+"deltea_sheriff"
+
+![](deltea_sheriff.png)
